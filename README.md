@@ -11,7 +11,7 @@ Custom Prusa Slicer vendor profile for all of my 3d printers and materials
 
 ### Inland
 
-* Black PETG
+* Black PETG+
 * Blue PETG
 * Purple PETG
 * Translucent Red PETG
@@ -26,3 +26,4 @@ Custom Prusa Slicer vendor profile for all of my 3d printers and materials
 * Blue ASA
 * Purple ASA
 * Teal ASA
+* White ASA
